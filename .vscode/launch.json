@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ListaExerciciosSpring1Application<ListaExerciciosSpring1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.edu.ifrs.restina.dev1.natacha.ListaExerciciosSpring1.ListaExerciciosSpring1Application",
+            "projectName": "ListaExerciciosSpring1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
