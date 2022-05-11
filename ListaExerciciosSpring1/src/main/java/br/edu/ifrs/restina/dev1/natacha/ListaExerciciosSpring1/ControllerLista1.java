@@ -16,7 +16,7 @@ calculo: IMC = Peso ÷ (Altura × Altura)
 */
 package br.edu.ifrs.restina.dev1.natacha.ListaExerciciosSpring1;
 
-import java.util.Calendar;
+//import java.util.Calendar;
 //import java.util.GregorianCalendar;
 
 import org.springframework.stereotype.Controller;

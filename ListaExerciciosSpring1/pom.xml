@@ -12,7 +12,7 @@
 	<artifactId>ListaExerciciosSpring1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ListaExerciciosSpring1</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Primeira Lista de Exercícios – Spring Framework</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
